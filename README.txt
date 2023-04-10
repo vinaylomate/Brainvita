@@ -4,7 +4,7 @@ Peg Solitaire (Brainvita) Game Solver in Java
 
 The goal is to remove all pegs but one by jumping pegs from one side of an occupied peg hole to an empty space, removing the peg which was jumped over.
 
-Used Dynamic Programming for solving this problem and sorted the moves to reduce executing time.
+Used Dynamic Programming and Backtracking for solving this problem and sorted the moves to reduce executing time.
 
 Below is the example of Standard English Board:- 
 
